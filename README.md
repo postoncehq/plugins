@@ -4,13 +4,14 @@ The Claude Code plugin marketplace for [PostOnce](https://postonce.to)'s social 
 
 ```bash
 claude plugin marketplace add postoncehq/plugins
-claude plugin install instagram-mcp@postoncehq
+claude plugin install postonce@postoncehq
 ```
 
 Then give Claude Code your PostOnce API key as the `POSTONCE_API_KEY` environment variable. Create the key in [PostOnce preferences](https://postonce.to/dashboard/preferences) and never paste it into chat.
 
 | Plugin | What it adds |
 | --- | --- |
+| [`postonce`](https://github.com/postoncehq/postonce-skills) | Crosspost to all 9 platforms: post-everywhere, content calendar, hook vault and viral formats, plus the publishing workflow |
 | [`linkedin-mcp`](https://github.com/postoncehq/linkedin-mcp) | LinkedIn posts, carousels, formatting, headlines and profile copy |
 | [`instagram-mcp`](https://github.com/postoncehq/instagram-mcp) | Instagram captions, carousels, Reel scripts, bios and hashtags |
 | [`tiktok-mcp`](https://github.com/postoncehq/tiktok-mcp) | TikTok scripts, hooks, captions and photo slideshows |

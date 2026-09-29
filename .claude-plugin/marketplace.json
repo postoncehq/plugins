@@ -7,6 +7,17 @@
   },
   "plugins": [
     {
+      "name": "postonce",
+      "version": "0.1.0",
+      "description": "Social media skills and publishing for 9 platforms.",
+      "category": "productivity",
+      "homepage": "https://github.com/postoncehq/postonce-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/postoncehq/postonce-skills.git"
+      }
+    },
+    {
       "name": "linkedin-mcp",
       "version": "0.1.0",
       "description": "Write, publish and schedule LinkedIn posts.",
