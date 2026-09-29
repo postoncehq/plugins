@@ -1,0 +1,109 @@
+{
+  "name": "postoncehq",
+  "description": "PostOnce MCP servers and social media skills: one plugin per platform.",
+  "owner": {
+    "name": "PostOnce",
+    "url": "https://postonce.to"
+  },
+  "plugins": [
+    {
+      "name": "linkedin-mcp",
+      "version": "0.1.0",
+      "description": "Write, publish and schedule LinkedIn posts.",
+      "category": "productivity",
+      "homepage": "https://github.com/postoncehq/linkedin-mcp",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/postoncehq/linkedin-mcp.git"
+      }
+    },
+    {
+      "name": "instagram-mcp",
+      "version": "0.1.0",
+      "description": "Write, publish and schedule Instagram posts and Reels.",
+      "category": "productivity",
+      "homepage": "https://github.com/postoncehq/instagram-mcp",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/postoncehq/instagram-mcp.git"
+      }
+    },
+    {
+      "name": "tiktok-mcp",
+      "version": "0.1.0",
+      "description": "Write, publish and schedule TikTok videos and slideshows.",
+      "category": "productivity",
+      "homepage": "https://github.com/postoncehq/tiktok-mcp",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/postoncehq/tiktok-mcp.git"
+      }
+    },
+    {
+      "name": "youtube-mcp",
+      "version": "0.1.0",
+      "description": "Upload, publish and schedule YouTube videos and Shorts.",
+      "category": "productivity",
+      "homepage": "https://github.com/postoncehq/youtube-mcp",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/postoncehq/youtube-mcp.git"
+      }
+    },
+    {
+      "name": "facebook-mcp",
+      "version": "0.1.0",
+      "description": "Write, publish and schedule Facebook Page posts and Reels.",
+      "category": "productivity",
+      "homepage": "https://github.com/postoncehq/facebook-mcp",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/postoncehq/facebook-mcp.git"
+      }
+    },
+    {
+      "name": "x-mcp",
+      "version": "0.1.0",
+      "description": "Write, publish and schedule tweets on X (Twitter).",
+      "category": "productivity",
+      "homepage": "https://github.com/postoncehq/x-mcp",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/postoncehq/x-mcp.git"
+      }
+    },
+    {
+      "name": "threads-mcp",
+      "version": "0.1.0",
+      "description": "Write, publish and schedule Threads posts.",
+      "category": "productivity",
+      "homepage": "https://github.com/postoncehq/threads-mcp",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/postoncehq/threads-mcp.git"
+      }
+    },
+    {
+      "name": "bluesky-mcp",
+      "version": "0.1.0",
+      "description": "Write, publish and schedule Bluesky posts.",
+      "category": "productivity",
+      "homepage": "https://github.com/postoncehq/bluesky-mcp",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/postoncehq/bluesky-mcp.git"
+      }
+    },
+    {
+      "name": "pinterest-mcp",
+      "version": "0.1.0",
+      "description": "Write, publish and schedule Pinterest pins.",
+      "category": "productivity",
+      "homepage": "https://github.com/postoncehq/pinterest-mcp",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/postoncehq/pinterest-mcp.git"
+      }
+    }
+  ]
+}
