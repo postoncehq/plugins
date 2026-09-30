@@ -7,7 +7,7 @@ claude plugin marketplace add postoncehq/plugins
 claude plugin install postonce@postoncehq
 ```
 
-Then give Claude Code your PostOnce API key as the `POSTONCE_API_KEY` environment variable. Create the key in [PostOnce preferences](https://postonce.to/dashboard/preferences) and never paste it into chat.
+The first time you use a PostOnce tool, Claude Code asks you to sign in to PostOnce (or run `/mcp` and pick postonce). No API key needed.
 
 | Plugin | What it adds |
 | --- | --- |
